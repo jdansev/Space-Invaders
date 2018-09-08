@@ -1,6 +1,6 @@
 # Space Invaders
 
-My C++ implementation of the classic 90s game.
+A C++ implementation of the classic 90s game.
 
 ![alt text](./demo.png)
 
